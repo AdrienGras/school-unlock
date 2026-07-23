@@ -1,0 +1,15 @@
+# État des verrous du site school.adriengras.fr
+#
+# Une ligne = un chemin verrouillé. `#` en début de ligne = commentaire.
+# Un chemin verrouille la page ET tout ce qui est en dessous :
+#   /docs/coda/b2/api-conception/ateliers/analyse   une fiche
+#   /docs/coda/b2/api-conception/ateliers           le groupe entier
+#   /docs/coda/b2/api-conception                    le module entier
+#
+# Absent de ce fichier = ouvert. La liste complète des chemins possibles est
+# publiée par le site sur /unlock-keys.json.
+#
+# Déverrouiller = commenter la ligne, committer, pousser. Les étudiants voient
+# le changement au rechargement de la page.
+
+# (aucun verrou pour l'instant)
