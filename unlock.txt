@@ -19,7 +19,8 @@
 # ─────────────────────────────────────────────────────────────────────────────
 
 # → ouvrir en J2 matin, au lancement de l'exercice
-/docs/coda/b2/api-conception/ateliers/galerie
+# [TEST propagation 2026-07-24 — galerie ouverte pour vérif, à re-verrouiller]
+# /docs/coda/b2/api-conception/ateliers/galerie
 
 # → ouvrir en J2 après-midi, au moment du reveal (lettre de mission + maquettes)
 /docs/coda/b2/api-conception/cours/concevoir
