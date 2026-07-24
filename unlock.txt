@@ -18,6 +18,9 @@
 # On décommente au fil de la chorégraphie de J2.
 # ─────────────────────────────────────────────────────────────────────────────
 
+# → ouvrir en J2 matin, au début de la séance (le cours du matin)
+/docs/coda/b2/api-conception/cours/principes
+
 # → ouvrir en J2 matin, au lancement de l'exercice
 /docs/coda/b2/api-conception/ateliers/galerie
 
