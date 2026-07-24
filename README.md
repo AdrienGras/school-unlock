@@ -17,6 +17,7 @@ La liste des chemins disponibles est publiée par le site sur `/unlock-keys.json
 - **Ce n'est pas un contrôle d'accès.** Le site est un export statique : le contenu
   d'une page verrouillée reste sur le serveur, joignable par URL directe pour qui
   sait la construire. Le verrou masque, il ne protège pas.
-- La propagation peut prendre quelques secondes (le site contourne le cache du CDN
-  GitHub, mais l'étudiant doit recharger la page).
+- La propagation prend jusqu'à ~90 s : le serveur du site interroge l'API GitHub
+  toutes les ~90 s, écrit l'état localement et le sert à l'étudiant sans cache. Un
+  changement est donc visible au prochain rechargement de page, dans la minute et demie.
 - Ce dépôt est **public** : n'y écrire aucun secret, aucun commentaire confidentiel.
