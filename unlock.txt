@@ -19,28 +19,28 @@
 # ─────────────────────────────────────────────────────────────────────────────
 
 # → ouvrir en J2 matin, au début de la séance (le cours du matin)
-/docs/coda/b2/api-conception/cours/principes
+#/docs/coda/b2/api-conception/cours/principes
 
 # → ouvrir en J2 matin, au lancement de l'exercice
-/docs/coda/b2/api-conception/ateliers/galerie
+#/docs/coda/b2/api-conception/ateliers/galerie
 
 # → ouvrir en J2 après-midi, au moment du reveal (lettre de mission + maquettes)
-/docs/coda/b2/api-conception/cours/concevoir
-/docs/coda/b2/api-conception/projet/lettre-de-mission
-/docs/coda/b2/api-conception/projet/maquettes
+#/docs/coda/b2/api-conception/cours/concevoir
+#/docs/coda/b2/api-conception/projet/lettre-de-mission
+#/docs/coda/b2/api-conception/projet/maquettes
 
 # → ouvrir en J2 après-midi, au lancement de l'atelier d'analyse
-/docs/coda/b2/api-conception/ateliers/analyse
+#/docs/coda/b2/api-conception/ateliers/analyse
 
 # → ouvrir en TOUT DERNIER, en fin de J2 : c'est la correction de l'analyse
-/docs/coda/b2/api-conception/projet/contrat-metier
+#/docs/coda/b2/api-conception/projet/contrat-metier
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CAP — Journée 3 (rédaction de l'OpenAPI).
 # ─────────────────────────────────────────────────────────────────────────────
 
 # → ouvrir en J3, au lancement du cours du matin
-/docs/coda/b2/api-conception/cours/openapi
+#/docs/coda/b2/api-conception/cours/openapi
 
 # → ouvrir en J3, au lancement de l'évaluation
-/docs/coda/b2/api-conception/evaluation
+#/docs/coda/b2/api-conception/evaluation
