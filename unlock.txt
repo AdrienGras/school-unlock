@@ -19,28 +19,60 @@
 # ─────────────────────────────────────────────────────────────────────────────
 
 # → ouvrir en J2 matin, au début de la séance (le cours du matin)
-#/docs/coda/b2/api-conception/cours/principes
+/docs/coda/b2/api-conception/cours/principes
 
 # → ouvrir en J2 matin, au lancement de l'exercice
-#/docs/coda/b2/api-conception/ateliers/galerie
+/docs/coda/b2/api-conception/ateliers/galerie
 
 # → ouvrir en J2 après-midi, au moment du reveal (lettre de mission + maquettes)
-#/docs/coda/b2/api-conception/cours/concevoir
-#/docs/coda/b2/api-conception/projet/lettre-de-mission
-#/docs/coda/b2/api-conception/projet/maquettes
+/docs/coda/b2/api-conception/cours/concevoir
+/docs/coda/b2/api-conception/projet/lettre-de-mission
+/docs/coda/b2/api-conception/projet/maquettes
 
 # → ouvrir en J2 après-midi, au lancement de l'atelier d'analyse
-#/docs/coda/b2/api-conception/ateliers/analyse
+/docs/coda/b2/api-conception/ateliers/analyse
 
 # → ouvrir en TOUT DERNIER, en fin de J2 : c'est la correction de l'analyse
-#/docs/coda/b2/api-conception/projet/contrat-metier
+/docs/coda/b2/api-conception/projet/contrat-metier
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CAP — Journée 3 (rédaction de l'OpenAPI).
 # ─────────────────────────────────────────────────────────────────────────────
 
 # → ouvrir en J3, au lancement du cours du matin
-#/docs/coda/b2/api-conception/cours/openapi
+/docs/coda/b2/api-conception/cours/openapi
 
 # → ouvrir en J3, au lancement de l'évaluation
-#/docs/coda/b2/api-conception/evaluation
+/docs/coda/b2/api-conception/evaluation
+
+# ─────────────────────────────────────────────────────────────────────────────
+# DAP — Développer une API REST (B2). Verrous par défaut en début de module.
+# L'étape 1 (installation), la home et la cheatsheet d'architecture restent
+# OUVERTES. On décommente une étape le jour où elle est lancée.
+#
+# Le verrou se pose sur la page d'atelier, pas sur le rattrapage : ce qu'on
+# cadence est la consigne de l'étape, pas la commande `git checkout` en bas de
+# page. Les tags du dépôt de référence, eux, restent devinables — le verrou
+# suit le chemin de moindre résistance, il ne protège rien (cf. spec §7.4).
+# ─────────────────────────────────────────────────────────────────────────────
+
+# → ouvrir au lancement de l'étape 2 (l'utilisateur)
+/docs/coda/b2/api-developpement/ateliers/utilisateur
+
+# → ouvrir au lancement de l'étape 3 (la ville, première ressource servie)
+/docs/coda/b2/api-developpement/ateliers/ville
+
+# → ouvrir au lancement de l'étape 4 (l'inscription)
+/docs/coda/b2/api-developpement/ateliers/inscription
+
+# → ouvrir au lancement de l'étape 5 (l'authentification)
+/docs/coda/b2/api-developpement/ateliers/authentification
+
+# → ouvrir au lancement de l'étape 6 (les lancers)
+/docs/coda/b2/api-developpement/ateliers/lancers
+
+# → ouvrir au lancement de l'étape 7 (le panier)
+/docs/coda/b2/api-developpement/ateliers/panier
+
+# L'étape 8 (le paiement) n'a pas encore de page : ajouter sa ligne ici le jour
+# où elle est livrée, sans quoi elle sera ouverte dès le premier déploiement.
