@@ -19,10 +19,10 @@
 # ─────────────────────────────────────────────────────────────────────────────
 
 # → ouvrir en J2 matin, au début de la séance (le cours du matin)
-/docs/coda/b2/api-conception/cours/principes
+#/docs/coda/b2/api-conception/cours/principes
 
 # → ouvrir en J2 matin, au lancement de l'exercice
-/docs/coda/b2/api-conception/ateliers/galerie
+#/docs/coda/b2/api-conception/ateliers/galerie
 
 # → ouvrir en J2 après-midi, au moment du reveal (lettre de mission + maquettes)
 /docs/coda/b2/api-conception/cours/concevoir
