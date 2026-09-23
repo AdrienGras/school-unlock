@@ -33,7 +33,7 @@
 #/docs/coda/b2/api-conception/ateliers/analyse
 
 # → ouvrir en TOUT DERNIER, en fin de J2 : c'est la correction de l'analyse
-/docs/coda/b2/api-conception/projet/contrat-metier
+#/docs/coda/b2/api-conception/projet/contrat-metier
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CAP — Journée 3 (rédaction de l'OpenAPI).
