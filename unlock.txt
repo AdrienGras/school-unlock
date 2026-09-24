@@ -40,10 +40,10 @@
 # ─────────────────────────────────────────────────────────────────────────────
 
 # → ouvrir en J3, au lancement du cours du matin
-/docs/coda/b2/api-conception/cours/openapi
+#/docs/coda/b2/api-conception/cours/openapi
 
 # → ouvrir en J3, au lancement de l'évaluation
-/docs/coda/b2/api-conception/evaluation
+#/docs/coda/b2/api-conception/evaluation
 
 # ─────────────────────────────────────────────────────────────────────────────
 # DAP — Développer une API REST (B2). Verrous par défaut en début de module.
@@ -57,22 +57,22 @@
 # ─────────────────────────────────────────────────────────────────────────────
 
 # → ouvrir au lancement de l'étape 2 (l'utilisateur)
-/docs/coda/b2/api-developpement/ateliers/utilisateur
+#/docs/coda/b2/api-developpement/ateliers/utilisateur
 
 # → ouvrir au lancement de l'étape 3 (la ville, première ressource servie)
-/docs/coda/b2/api-developpement/ateliers/ville
+#/docs/coda/b2/api-developpement/ateliers/ville
 
 # → ouvrir au lancement de l'étape 4 (l'inscription)
-/docs/coda/b2/api-developpement/ateliers/inscription
+#/docs/coda/b2/api-developpement/ateliers/inscription
 
 # → ouvrir au lancement de l'étape 5 (l'authentification)
-/docs/coda/b2/api-developpement/ateliers/authentification
+#/docs/coda/b2/api-developpement/ateliers/authentification
 
 # → ouvrir au lancement de l'étape 6 (les lancers)
-/docs/coda/b2/api-developpement/ateliers/lancers
+#/docs/coda/b2/api-developpement/ateliers/lancers
 
 # → ouvrir au lancement de l'étape 7 (le panier)
-/docs/coda/b2/api-developpement/ateliers/panier
+#/docs/coda/b2/api-developpement/ateliers/panier
 
 # L'étape 8 (le paiement) n'a pas encore de page : ajouter sa ligne ici le jour
 # où elle est livrée, sans quoi elle sera ouverte dès le premier déploiement.
