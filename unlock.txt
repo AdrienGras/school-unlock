@@ -74,5 +74,5 @@
 # → ouvrir au lancement de l'étape 7 (le panier)
 #/docs/coda/b2/api-developpement/ateliers/panier
 
-# L'étape 8 (le paiement) n'a pas encore de page : ajouter sa ligne ici le jour
-# où elle est livrée, sans quoi elle sera ouverte dès le premier déploiement.
+# → ouvrir au lancement de l'étape 8 (les billets, le paiement)
+#/docs/coda/b2/api-developpement/ateliers/billets
