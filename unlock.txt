@@ -76,3 +76,10 @@
 
 # → ouvrir au lancement de l'étape 8 (les billets, le paiement)
 #/docs/coda/b2/api-developpement/ateliers/billets
+
+# ─────────────────────────────────────────────────────────────────────────────
+# DAP — Évaluation de fin de module (CodaEats). VERROUILLÉE jusqu'au jour J.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# → ouvrir le jour J, au lancement de l'évaluation (commenter la ligne)
+/docs/coda/b2/api-developpement/evaluation
