@@ -82,4 +82,4 @@
 # ─────────────────────────────────────────────────────────────────────────────
 
 # → ouvrir le jour J, au lancement de l'évaluation (commenter la ligne)
-/docs/coda/b2/api-developpement/evaluation
+#/docs/coda/b2/api-developpement/evaluation
